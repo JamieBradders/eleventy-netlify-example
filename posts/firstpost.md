@@ -6,8 +6,8 @@ metaDescription: This is a sample meta description. If one is not present in
 date: 2019-01-01T00:00:00.000Z
 author: John Appleseed
 person:
-  - Bob Marley
-  - Jamie Bradley
+  - bob-marley
+  - jamie-bradley-example
 summary: Why contemplating our mortality can be a powerful catalyst for change
 tags:
   - tech
